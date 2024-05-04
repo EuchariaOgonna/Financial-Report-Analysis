@@ -8,6 +8,7 @@
 -  [Recommendations](#recommendations)
 ### Project Overview
 The sales data contains a complete details of sales activities in a company during a specific period, such as a daily, weekly, monthly, quarterly, and yearly sales. The report typically includes data on sales revenue, sales volume, sales by product, sales by region or market segment and sales trends over time. Sales data provides actionable insights into product performance in a company. By tracking and analyzing sales data, organizations can identify trends and patterns in customer behavior, product demand, and market conditions, which can inform business strategies and helps to improve revenue growth and strategic decision-making.
+![OVERVIEW](https://github.com/EuchariaOgonna/Financial-Report-Analysis/assets/105076757/453a1057-8a53-473d-bbaa-a1c948001453)
 
 ### Data Sources
 This is an anonymous primary sales dataset gotten from Kaggle.com, the dataset was collated on a spreadsheet (Microsoft Excel).
